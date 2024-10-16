@@ -82,3 +82,17 @@ footer {
     background: #2c3e50;
     color: #fff;
 }
+
+#certifications h2 {
+    color: #2980b9;
+}
+
+#certifications ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0;
+}
+
+#certifications li {
+    margin: 5px 0;
+}
+
